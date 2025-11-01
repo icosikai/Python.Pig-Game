@@ -1,4 +1,3 @@
-#Project 1: Pig game.
 import random
 
 #Create a player class.
@@ -66,3 +65,4 @@ for players in player_list:
 print("\nThe winner of the game is...")
 
 print(f"{current_player.name} with {current_player.score} points!")
+
