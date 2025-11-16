@@ -9,4 +9,4 @@
 ## Additional Notes ⭐
 - This was one of my first major coding projects. It was originally completed during the summer of 2025, but I have since gone back to it to make a few edits.
 
-Overall, thank you for taking the time to look at my project. I would appreciate if you shared any suggestions or additional ideas of finding a better solution!
+Thank you for taking the time to look at my project. I would appreciate if you shared any suggestions or additional ideas of finding a better solution!
